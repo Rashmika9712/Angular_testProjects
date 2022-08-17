@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Rashmika",
+        "email":"rashmika@gmail.com",
+        "gender":"male"
+    },
+    {
+        "id":2,
+        "name":"Rohan",
+        "email":"rohan@gmail.com",
+        "gender":"male"
+    },
+    {
+        "id":3,
+        "name":"Yehan",
+        "email":"yehan@gmail.com",
+        "gender":"male"
+    },
+    {
+        "id":4,
+        "name":"Pasindu",
+        "email":"pasindu@gmail.com",
+        "gender":"male"
+    },
+    {
+        "id":5,
+        "name":"Harshika",
+        "email":"harshika@gmail.com",
+        "gender":"male"
+    }
+]

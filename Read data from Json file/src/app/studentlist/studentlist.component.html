@@ -1,0 +1,19 @@
+<div class="container">
+    <h1>Fetching all the student details</h1>
+    <table>
+        <thead>
+            <th>ID</th>
+            <th>Name</th>
+            <th>Email</th>
+            <th>Gender</th>
+        </thead>
+        <tbody>
+            <tr *ngFor = "let student of students">
+                <td>{{student.id}}</td>
+                <td>{{student.name}}</td>
+                <td>{{student.email}}</td>
+                <td>{{student.gender}}</td>
+            </tr>
+        </tbody>
+    </table>
+</div>
